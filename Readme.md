@@ -30,7 +30,7 @@
 <p>
 To use the BigInt data type, we use C++ strings to store the numbers as characters (in reverse order for better performance). Additions and subtractions involve special calculations with carry-over control. Multiplication is done by multiplying each digit in one number by a completely different digit and multiplying the result.</p>
 
-<h3>The project includes the following operations on BigInt.</h3>a
+<h3>The project includes the following operations on BigInt.</h3>
 
 <ul>
 <li>Definition of large integers</li>
